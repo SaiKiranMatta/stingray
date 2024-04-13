@@ -36,7 +36,7 @@ We use `py.test <https://pytest.org>`_ and `tox <https://tox.readthedocs.io>`_ f
 Documentation
 -------------
 
-Stingray's documentation can be found at https://docs.stingray.science/.
+Stingrays documentation can be found at https://docs.stingray.science/.
 
 Getting In Touch, and Getting Involved
 --------------------------------------
